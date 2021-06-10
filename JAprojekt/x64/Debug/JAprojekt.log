@@ -1,0 +1,5 @@
+﻿  JAprojekt.cpp
+C:\Users\elson\Desktop\Poligon doświadczany JAprojekt - Copy\JAprojekt\JAprojekt.cpp(198,21): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+C:\Users\elson\Desktop\Poligon doświadczany JAprojekt - Copy\JAprojekt\JAprojekt.cpp(254,17): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+C:\Users\elson\Desktop\Poligon doświadczany JAprojekt - Copy\JAprojekt\JAprojekt.cpp(357,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  JAprojekt.vcxproj -> C:\Users\elson\Desktop\Poligon doświadczany JAprojekt - Copy\x64\Debug\JAprojekt.exe
